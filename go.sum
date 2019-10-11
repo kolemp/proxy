@@ -73,10 +73,10 @@ github.com/json-iterator/go v0.0.0-20180701071628-ab8a2e0c74be/go.mod h1:+SdeFBv
 github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515/go.mod h1:+0opPa2QZZtGFBFZlji/RkVcI2GknAs/DXo4wKdlNEc=
 github.com/matttproud/golang_protobuf_extensions v1.0.1 h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
-github.com/mholt/caddy v0.11.4 h1:he7Ej5Jf9CXjETtfQQBr5KJ1b5ZWdPaBOJjiQs6LAIk=
-github.com/mholt/caddy v0.11.4/go.mod h1:Wb1PlT4DAYSqOEd03MsqkdkXnTxA8v9pKjdpxbqM1kY=
-github.com/mholt/caddy v0.11.5 h1:JdEOU5HeeoflcqnWowqJ0GNj/fHd6FfHYT85/WNQ/Sc=
-github.com/mholt/caddy v0.11.5/go.mod h1:Wb1PlT4DAYSqOEd03MsqkdkXnTxA8v9pKjdpxbqM1kY=
+github.com/caddyserver/caddy v0.11.4 h1:he7Ej5Jf9CXjETtfQQBr5KJ1b5ZWdPaBOJjiQs6LAIk=
+github.com/caddyserver/caddy v0.11.4/go.mod h1:Wb1PlT4DAYSqOEd03MsqkdkXnTxA8v9pKjdpxbqM1kY=
+github.com/caddyserver/caddy v0.11.5 h1:JdEOU5HeeoflcqnWowqJ0GNj/fHd6FfHYT85/WNQ/Sc=
+github.com/caddyserver/caddy v0.11.5/go.mod h1:Wb1PlT4DAYSqOEd03MsqkdkXnTxA8v9pKjdpxbqM1kY=
 github.com/miekg/dns v1.1.4 h1:rCMZsU2ScVSYcAsOXgmC6+AKOK+6pmQTOcw03nfwYV0=
 github.com/miekg/dns v1.1.4/go.mod h1:W1PPwlIAgtquWBMBEV9nkV9Cazfe8ScdGz/Lj7v3Nrg=
 github.com/miekg/dns v1.1.6 h1:jVwb4GDwD65q/gtItR/lIZHjNH93QfeGxZUkzJcW9mc=
