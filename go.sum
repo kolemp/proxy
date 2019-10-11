@@ -17,7 +17,7 @@ github.com/coredns/coredns v1.4.0 h1:RubBkYmkByUqZWWkjRHvNLnUHgkRVqAWgSMmRFvpE1A
 github.com/coredns/coredns v1.4.0/go.mod h1:zASH/MVDgR6XZTbxvOnsZfffS+31vg6Ackf/wo1+AM0=
 github.com/coredns/coredns v1.4.1-0.20190312110147-91d645168488 h1:b9RNPiRfyhmzIrvIi6WNmiNgRkOg6zy1Lg2jbAuZZF0=
 github.com/coredns/coredns v1.4.1-0.20190312110147-91d645168488/go.mod h1:lCPlCTDuEbx701jyBww8zIU8zQDzKyHhZVcJC5EfKKA=
-github.com/coredns/proxy v0.0.0-20190303110311-afc937d015b9/go.mod h1:BXx1AhWPTL4TJqe70SRiT1MT41j8yWJGU6kEInPiDAA=
+github.com/kolemp/proxy v0.0.0-20190303110311-afc937d015b9/go.mod h1:BXx1AhWPTL4TJqe70SRiT1MT41j8yWJGU6kEInPiDAA=
 github.com/coreos/etcd v3.3.11+incompatible h1:0gCnqKsq7XxMi69JsnbmMc1o+RJH3XH64sV9aiTTYko=
 github.com/coreos/etcd v3.3.11+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
